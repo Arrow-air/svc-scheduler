@@ -1178,7 +1178,7 @@ dependencies = [
 [[package]]
 name = "router"
 version = "0.1.0"
-source = "git+https://github.com/Arrow-air/lib-router.git?branch=main#55eac9c574e699758259beea1224bb0eb5e44736"
+source = "git+https://github.com/Arrow-air/lib-router.git?branch=roman/r2_time_ranges#6d49799258e8c58a9905eb6a620ce91d2ae3f823"
 dependencies = [
  "cargo-husky",
  "chrono",
